@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
----# Welcome to my Portfolio Hello! my name is SC.
+--- # Welcome to my Portfolio Hello! My name is SC.
 ## Projects
 - Project 1 Description
 - Project 2 Description
