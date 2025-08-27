@@ -1,3 +1,4 @@
+---
 layout: default
 title: Home
 ---# Welcome to my Portfolio Hello! my name is SC.
@@ -5,4 +6,4 @@ title: Home
 - Project 1 Description
 - Project 2 Description
 ## About me
-Click here to learn more → [About Me] (about.md)
+Click here to learn more → [About Me](about.md)
