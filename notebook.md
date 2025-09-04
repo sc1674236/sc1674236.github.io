@@ -22,17 +22,15 @@
 | Scaffold         | Provides basic visual layout -- like a header, body, floating button | Each screen uses it
 | StatelessWidget  | A widget that doesnt change | most of the screen files
 | StatefulWidget   | A widget that can change over time | Used in MyHomePage()
-| Navigator        | Manage screen transitions
-| AppBar           | Top navigation bar
-| Column           | Vertical layout
-| Row              | Horizontal layout
-| Container        | wraps content with padding, margin, or color
-| Text             | Displays text
-| Image.network    | Displays images from a URL
-
-| Padding    |                    |                     |
-
-| Center |                        |                     |
+| Navigator        | Manage screen transitions | Predifined keyboard shortcuts
+| AppBar           | Top navigation bar | 
+| Column           | Vertical layout | organize vertically
+| Row              | Horizontal layout | organize horizontally
+| Container        | wraps content with padding, margin, or color | lets you style
+| Text             | Displays text | labels, titals, paragraphs
+| Image.network    | Displays images from a URL | load an image from link
+| Padding          |                    |                     |
+| Center           |                        |                     |
 
 ---
 
