@@ -41,9 +41,9 @@
 - How do you align something to the left or right?
 - What widget adds space around content?
 
+---
 
-
-## Flutter Definitions
+## Flutter Definitions with Structures
 
 | Term | Definition and Description | Base Structure | Real Life Example | App Example |
 |------|----------------------------|----------------|-------------------|-------------|
@@ -70,9 +70,7 @@
 |      | A keyword used to pass a value to the parent widget. | `super.key` |  |  |
 |      | A keyword that means the value won't change and is set once. | `const` |  |  |
 
-
-
-
+---
 
 ## Code Definitions
 
