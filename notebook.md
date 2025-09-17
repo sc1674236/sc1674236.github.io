@@ -60,12 +60,12 @@
 | scope | Where a variable or function can be used. | (No set syntax — concept-based) |starbucks gift card  |  |
 | class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |class  |  |
 | object | A specific version of a class. | `Dog myDog = Dog();` |students  |  |
-|      | A variable that belongs to a class/object. | `String name;` |  |  |
-|      | A function that belongs to a class. | `void bark() {}` |  |  |
-|      | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
-|      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
-|      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
-|      | A function that does not return a value. | `void printMessage() {}` |  |  |
+| property | A variable that belongs to a class/object. | `String name;` |plane seats  |  |
+| method | A function that belongs to a class. | `void bark() {}` |notes  |  |
+| constructer | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
+| abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
+| override | Changing how a built-in or inherited function behaves. | `@override` |  |  |
+| void | A function that does not return a value. | `void printMessage() {}` |  |  |
 
 
 
