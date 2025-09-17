@@ -1,9 +1,9 @@
 ## Table of Contents
 - [Flutter Notes](#flutter-notes)
- - [What is Flutter?](#what-is-flutter)
- - [Key Terms and Definitions](#key-terms-and-definitions)
- - [Layout and Design Widgets](#layout-and-design-widgets)
- - [Definitions with Structures](#flutter-definitions-with-structures)
+  - [What is Flutter?](#what-is-flutter)
+  - [Key Terms and Definitions](#key-terms-and-definitions)
+  - [Layout and Design Widgets](#layout-and-design-widgets)
+  - [Definitions with Structures](#flutter-definitions-with-structures)
 - [Code Definitions](#code-definitions)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
