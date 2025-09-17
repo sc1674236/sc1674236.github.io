@@ -43,7 +43,7 @@
 
 ---
 
-## Flutter Definitions with Structures
+## Flutter Definitions
 
 | Term | Definition and Description | Base Structure | Real Life Example | App Example |
 |------|----------------------------|----------------|-------------------|-------------|
